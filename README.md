@@ -12,7 +12,7 @@ Técnica em Redes de Computadores apaixonada por tecnologia e em constante busca
 
 - 🌐 Técnica em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão
 - 👩‍💻 Graduanda em TI pela Universidade Federal Rural do Semi-Árido
-- 🤝 Atualmente faço parte da AltoTech Juniors - Desenvolvedora de soluções em TI
+- 🤝 Atualmente sou estagiária na AltoTech Juniors - Desenvolvedora de soluções em TI
 - 📕 Apaixonada por livros
 - 😺 Amo animais
 
