@@ -22,3 +22,5 @@ Técnica em Redes de Computadores apaixonada por tecnologia e em constante busca
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![snake gif](https://github.com/M-Aparecida/M-Aparecida/blob/output/github-contribution-grid-snake.svg)
